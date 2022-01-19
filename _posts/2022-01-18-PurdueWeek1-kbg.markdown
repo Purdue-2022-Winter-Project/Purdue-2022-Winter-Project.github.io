@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "퍼듀 1주차!-김병규"
-date:   2022-01-18 20:31:36 -0500
+date:   2022-01-18 22:31:00 -0500
 categories: jekyll update
 ---
 ![image](https://user-images.githubusercontent.com/67006945/150058020-22924bde-199e-4a21-a229-e8dc5d8be452.png)
