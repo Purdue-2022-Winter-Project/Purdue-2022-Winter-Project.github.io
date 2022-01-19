@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "퍼듀 1주차!"
+title:  "퍼듀 1주차!-박지우"
 date:   2022-01-18 20:31:36 -0500
 categories: jekyll update
 ---
