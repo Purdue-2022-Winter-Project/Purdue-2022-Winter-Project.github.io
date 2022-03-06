@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "퍼듀 3주차!-김병규"
-date:   2022-03-06 17:31:00 -0500
+date:   2022-03-05 17:31:00
 categories: jekyll update
 ---
 ![image](https://user-images.githubusercontent.com/67006945/156915982-e7ec03aa-fcc8-42b0-a43c-995881e1152b.png)
